@@ -1,0 +1,48 @@
+H:\Разработка программных модулей\13\13\bin\Debug\13.exe.config
+H:\Разработка программных модулей\13\13\bin\Debug\13.exe
+H:\Разработка программных модулей\13\13\bin\Debug\13.pdb
+H:\Разработка программных модулей\13\13\obj\Debug\13.csproj.AssemblyReference.cache
+H:\Разработка программных модулей\13\13\obj\Debug\13.csproj.SuggestedBindingRedirects.cache
+H:\Разработка программных модулей\13\13\obj\Debug\MainWindow.g.cs
+H:\Разработка программных модулей\13\13\obj\Debug\App.g.cs
+H:\Разработка программных модулей\13\13\obj\Debug\13_MarkupCompile.cache
+H:\Разработка программных модулей\13\13\obj\Debug\13_MarkupCompile.lref
+H:\Разработка программных модулей\13\13\obj\Debug\MainWindow.baml
+H:\Разработка программных модулей\13\13\obj\Debug\13.g.resources
+H:\Разработка программных модулей\13\13\obj\Debug\_13.Properties.Resources.resources
+H:\Разработка программных модулей\13\13\obj\Debug\13.csproj.GenerateResource.cache
+H:\Разработка программных модулей\13\13\obj\Debug\13.csproj.CoreCompileInputs.cache
+H:\Разработка программных модулей\13\13\obj\Debug\13.exe
+H:\Разработка программных модулей\13\13\obj\Debug\13.pdb
+C:\Users\user\source\repos\280\13-14\13\bin\Debug\13.exe.config
+C:\Users\user\source\repos\280\13-14\13\bin\Debug\13.exe
+C:\Users\user\source\repos\280\13-14\13\bin\Debug\13.pdb
+C:\Users\user\source\repos\280\13-14\13\obj\Debug\13.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\280\13-14\13\obj\Debug\13.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\280\13-14\13\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\280\13-14\13\obj\Debug\App.g.cs
+C:\Users\user\source\repos\280\13-14\13\obj\Debug\13_MarkupCompile.cache
+C:\Users\user\source\repos\280\13-14\13\obj\Debug\13_MarkupCompile.lref
+C:\Users\user\source\repos\280\13-14\13\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\280\13-14\13\obj\Debug\13.g.resources
+C:\Users\user\source\repos\280\13-14\13\obj\Debug\_13.Properties.Resources.resources
+C:\Users\user\source\repos\280\13-14\13\obj\Debug\13.csproj.GenerateResource.cache
+C:\Users\user\source\repos\280\13-14\13\obj\Debug\13.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\280\13-14\13\obj\Debug\13.exe
+C:\Users\user\source\repos\280\13-14\13\obj\Debug\13.pdb
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\bin\Debug\13.exe.config
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\bin\Debug\13.exe
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\bin\Debug\13.pdb
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\obj\Debug\13.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\obj\Debug\13.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\obj\Debug\MainWindow.g.cs
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\obj\Debug\App.g.cs
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\obj\Debug\13_MarkupCompile.cache
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\obj\Debug\13_MarkupCompile.lref
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\obj\Debug\MainWindow.baml
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\obj\Debug\13.g.resources
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\obj\Debug\_13.Properties.Resources.resources
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\obj\Debug\13.csproj.GenerateResource.cache
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\obj\Debug\13.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\obj\Debug\13.exe
+C:\Users\user.COMP-02\Desktop\проекты xaml\13-14\13\obj\Debug\13.pdb

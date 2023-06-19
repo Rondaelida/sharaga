@@ -1,0 +1,29 @@
+﻿<Window x:Class="_15.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_15"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TreeView x:Name="tree">
+            <TreeViewItem Header="Марка автомобилей" x:Name="one">
+                <TreeViewItem Header="Бмв" x:Name="b1"/>
+                <TreeViewItem Header="Мерседес"  x:Name="b2"/>
+                <TreeViewItem Header="матиз"  x:Name="b3"/>
+                <TreeViewItem Header="Телефоны" x:Name="two">
+                    <TreeViewItem Header="апхоне"  x:Name="b4"/>
+                    <TreeViewItem Header="самсунге"  x:Name="b5"/>
+                    <TreeViewItem Header="редми"  x:Name="b6"/>
+                    <TreeViewItem Header="Язык страдания програмирования" x:Name="three">
+                        <TreeViewItem Header="С#"  x:Name="b7"/>
+                        <TreeViewItem Header="Python"  x:Name="b8"/>
+                        <TreeViewItem Header="C++"  x:Name="b9"/>
+                    </TreeViewItem>
+                </TreeViewItem>
+            </TreeViewItem>
+        </TreeView>
+        <Button x:Name="u" Content="Удалить" Height="30" Width="100" Margin="10" HorizontalAlignment="Left" VerticalAlignment="Bottom" Click="u_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,64 @@
+H:\Разработка программных модулей\15\15\bin\Debug\15.exe.config
+H:\Разработка программных модулей\15\15\bin\Debug\15.exe
+H:\Разработка программных модулей\15\15\bin\Debug\15.pdb
+H:\Разработка программных модулей\15\15\obj\Debug\15.csproj.AssemblyReference.cache
+H:\Разработка программных модулей\15\15\obj\Debug\15.csproj.SuggestedBindingRedirects.cache
+H:\Разработка программных модулей\15\15\obj\Debug\MainWindow.g.cs
+H:\Разработка программных модулей\15\15\obj\Debug\App.g.cs
+H:\Разработка программных модулей\15\15\obj\Debug\15_MarkupCompile.cache
+H:\Разработка программных модулей\15\15\obj\Debug\15_MarkupCompile.lref
+H:\Разработка программных модулей\15\15\obj\Debug\MainWindow.baml
+H:\Разработка программных модулей\15\15\obj\Debug\15.g.resources
+H:\Разработка программных модулей\15\15\obj\Debug\_15.Properties.Resources.resources
+H:\Разработка программных модулей\15\15\obj\Debug\15.csproj.GenerateResource.cache
+H:\Разработка программных модулей\15\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+H:\Разработка программных модулей\15\15\obj\Debug\15.exe
+H:\Разработка программных модулей\15\15\obj\Debug\15.pdb
+C:\Users\user\source\repos\280\15\15\bin\Debug\15.exe.config
+C:\Users\user\source\repos\280\15\15\bin\Debug\15.exe
+C:\Users\user\source\repos\280\15\15\bin\Debug\15.pdb
+C:\Users\user\source\repos\280\15\15\obj\Debug\15.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\280\15\15\obj\Debug\15.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\280\15\15\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\280\15\15\obj\Debug\App.g.cs
+C:\Users\user\source\repos\280\15\15\obj\Debug\15_MarkupCompile.cache
+C:\Users\user\source\repos\280\15\15\obj\Debug\15_MarkupCompile.lref
+C:\Users\user\source\repos\280\15\15\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\280\15\15\obj\Debug\15.g.resources
+C:\Users\user\source\repos\280\15\15\obj\Debug\_15.Properties.Resources.resources
+C:\Users\user\source\repos\280\15\15\obj\Debug\15.csproj.GenerateResource.cache
+C:\Users\user\source\repos\280\15\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\280\15\15\obj\Debug\15.exe
+C:\Users\user\source\repos\280\15\15\obj\Debug\15.pdb
+C:\Users\user\Desktop\275к задачи\15\15\bin\Debug\15.exe.config
+C:\Users\user\Desktop\275к задачи\15\15\bin\Debug\15.exe
+C:\Users\user\Desktop\275к задачи\15\15\bin\Debug\15.pdb
+C:\Users\user\Desktop\275к задачи\15\15\obj\Debug\15.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\275к задачи\15\15\obj\Debug\15.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\275к задачи\15\15\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\275к задачи\15\15\obj\Debug\App.g.cs
+C:\Users\user\Desktop\275к задачи\15\15\obj\Debug\15_MarkupCompile.cache
+C:\Users\user\Desktop\275к задачи\15\15\obj\Debug\15_MarkupCompile.lref
+C:\Users\user\Desktop\275к задачи\15\15\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\275к задачи\15\15\obj\Debug\15.g.resources
+C:\Users\user\Desktop\275к задачи\15\15\obj\Debug\_15.Properties.Resources.resources
+C:\Users\user\Desktop\275к задачи\15\15\obj\Debug\15.csproj.GenerateResource.cache
+C:\Users\user\Desktop\275к задачи\15\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\275к задачи\15\15\obj\Debug\15.exe
+C:\Users\user\Desktop\275к задачи\15\15\obj\Debug\15.pdb
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\bin\Debug\15.exe.config
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\bin\Debug\15.exe
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\bin\Debug\15.pdb
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\obj\Debug\15.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\obj\Debug\15.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\obj\Debug\MainWindow.g.cs
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\obj\Debug\App.g.cs
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\obj\Debug\15_MarkupCompile.cache
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\obj\Debug\15_MarkupCompile.lref
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\obj\Debug\MainWindow.baml
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\obj\Debug\15.g.resources
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\obj\Debug\_15.Properties.Resources.resources
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\obj\Debug\15.csproj.GenerateResource.cache
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\obj\Debug\15.exe
+C:\Users\user.COMP-02\Desktop\проекты xaml\15\15\obj\Debug\15.pdb
