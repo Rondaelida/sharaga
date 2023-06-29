@@ -1,0 +1,32 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:local="clr-namespace:_20">
+    
+    <Style x:Key="TextBlockStyle" TargetType="TextBlock">
+        <Setter Property="Background" Value="#16172B" />
+        <Setter Property="Foreground" Value=" #FBFBFB" />
+    </Style>
+    
+    <Style x:Key="WindowStyle" TargetType="Window">
+        <Setter Property="Background" Value="#16172B" />
+    </Style>
+    
+    <Style x:Key="ButtonStyle" TargetType="Button">
+        <Setter Property="Background" Value=" #0878D2" />
+        <Setter Property="Foreground" Value=" #1F2034" />
+        <Setter Property="BorderBrush" Value=" #0878D2" />
+    </Style>
+    <Style x:Key="TextBoxStyle" TargetType="TextBox">
+        <Setter Property="Background" Value=" #0878D2" />
+        <Setter Property="Foreground" Value=" #1F2034" />
+        <Setter Property="BorderBrush" Value=" #0878D2" />
+    </Style>
+    <Style x:Key="ComboBoxStyle" TargetType="ComboBox">
+        <Setter Property="Background" Value=" #0878D2" />
+        <Setter Property="Foreground" Value=" #1F2034" />
+        <Setter Property="BorderBrush" Value=" #0878D2" />
+    </Style>
+
+
+
+</ResourceDictionary>

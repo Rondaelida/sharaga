@@ -1,0 +1,30 @@
+﻿<Window x:Class="Canvas_and_Animations.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Canvas_and_Animations"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"  PreviewKeyDown="Window_PreviewKeyDown">
+    <Grid>
+        <Canvas x:Name="canvas" Margin="10,10,10,75" Background="#B9E5EC
+" MouseMove="Canvas_MouseMove" PreviewMouseLeftButtonDown="Canvas_PreviewMouseLeftButtonDown" PreviewMouseRightButtonDown="Canvas_PreviewMouseRightButtonDown" Focusable="True" ClipToBounds="True"/>
+        
+        <UniformGrid x:Name="Modes_grid" Height="27" Margin="10,0,10,34" VerticalAlignment="Bottom" Columns="5">
+            <ToggleButton Content="معيار" Margin="2,0" Tag="1" IsChecked="True" Click="ModeChange_Click" Background="#FFD6FFE4" FontSize="14"/>
+            <ToggleButton Content="45° غادر" Margin="2,0" Tag="2" Click="ModeChange_Click" Background="#FFC8CEF9" FontSize="14"/>
+            <ToggleButton Content="45° يمين" Margin="2,0" Tag="3" Click="ModeChange_Click" Background="#FFC8CEF9" FontSize="14"/>
+            <ToggleButton Content="عموديا" Margin="2,0" Tag="4" Click="ModeChange_Click" Background="#FFC8CEF9" FontSize="14"/>
+            <ToggleButton Content="أفقيا" Margin="2,0" Tag="5" Click="ModeChange_Click" Background="#FFC8CEF9" FontSize="14"/>
+        </UniformGrid>
+        
+        <UniformGrid Margin="10,0,10,10" VerticalAlignment="Bottom" Columns="4">
+            <TextBox Margin="0,0,40,0" TextWrapping="Wrap" PreviewTextInput="TB_PreviewTextInput" FontSize="14" Background="#FFD999" TextChanged="Speed_TextChanged" Text="2000"/>
+            <TextBox Margin="-35,0,80,0" TextWrapping="Wrap" PreviewTextInput="TB_PreviewTextInput" FontSize="14" Background="#FFD999" TextChanged="Delay_TextChanged" Text="10"/>
+            <Button x:Name="stop_animation" Content="وقف الرسوم المتحركة" Margin="-75,0,-35,0" VerticalAlignment="Bottom" Height="20" Click="StopAnimation" Background="#FFFFCCC7" FontSize="13" Foreground="Black"/>
+            <Button x:Name="start_animate" Content="ابدأ الرسوم المتحركة" Margin="40,0,2,0" VerticalAlignment="Bottom" Height="20" Click="Animate" Background="#FFBDF3C9" FontSize="13" Foreground="Black"/>
+        </UniformGrid>
+        
+    </Grid>
+</Window>
+

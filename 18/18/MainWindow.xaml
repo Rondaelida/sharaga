@@ -1,0 +1,91 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_18"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="_18.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="AliceBlue">
+    <Grid>
+
+        <Calendar x:Name="calendar1" 
+                  FirstDayOfWeek="Monday"
+                  SelectedDatesChanged="calendar_SelectedDatesChanged" 
+                  Background="#E8FCB1"
+                  Foreground="#963077" >
+
+            <Calendar.Effect>
+                <DropShadowEffect/>
+            </Calendar.Effect>
+
+            <Calendar.BlackoutDates>
+                <CalendarDateRange Start="1/02/2018" End="3/01/2023"/>
+
+            </Calendar.BlackoutDates>
+
+        </Calendar>
+      
+
+        <TextBox Margin="0,217,0,171" Background="#FFB1E0C7" Text="{Binding ElementName =calendar1, Path=SelectedDate}">
+
+            <TextBox.Effect>
+                <DropShadowEffect/>
+            </TextBox.Effect>
+
+        </TextBox>
+
+        <TextBox Margin="0,350,0,38" Background="#FFB1E0C7" Text="{Binding ElementName =calendar2, Path=SelectedDate}">
+
+            <TextBox.Effect>
+                <DropShadowEffect/>
+            </TextBox.Effect>
+
+        </TextBox>
+
+        <TextBox Margin="0,283,0,105" Background="#FFB1E0C7" Text="{Binding ElementName =calendar3, Path=SelectedDate}">
+
+                    <TextBox.Effect>
+                <DropShadowEffect/>
+            </TextBox.Effect>
+
+        </TextBox>
+
+                <Calendar x:Name="calendar2" 
+                  FirstDayOfWeek="Monday"
+                  SelectedDatesChanged="calendar_SelectedDatesChanged1" 
+                  Background="#FFD8D8"
+                  Foreground="#317E31" 
+                  Margin="-32,0,580,235" >
+
+                    <Calendar.Effect>
+                        <DropShadowEffect/>
+                    </Calendar.Effect>
+
+                    <Calendar.BlackoutDates>
+                        <CalendarDateRange Start="1/02/2018" End="3/01/2023"/>
+
+                    </Calendar.BlackoutDates>
+
+                </Calendar>
+
+        <Calendar x:Name="calendar3" 
+                  FirstDayOfWeek="Monday"
+                  SelectedDatesChanged="calendar_SelectedDatesChanged2" 
+                  Background="#C6E1E9"
+                  Foreground="#901910" 
+                  Margin="299,0,-299,0" >
+
+            <Calendar.Effect>
+                <DropShadowEffect/>
+            </Calendar.Effect>
+
+            <Calendar.BlackoutDates>
+                <CalendarDateRange Start="1/02/2018" End="3/01/2023"/>
+
+            </Calendar.BlackoutDates>
+
+        </Calendar>
+
+    </Grid>
+</Window>

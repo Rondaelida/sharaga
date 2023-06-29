@@ -1,0 +1,16 @@
+C:\Users\user\Documents\9ИС-280\17\17\obj\Debug\17.csproj.AssemblyReference.cache
+C:\Users\user\Documents\9ИС-280\17\17\obj\Debug\17.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\9ИС-280\17\17\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\9ИС-280\17\17\obj\Debug\App.g.cs
+C:\Users\user\Documents\9ИС-280\17\17\obj\Debug\17_MarkupCompile.cache
+C:\Users\user\Documents\9ИС-280\17\17\obj\Debug\17_MarkupCompile.lref
+C:\Users\user\Documents\9ИС-280\17\17\bin\Debug\17.exe.config
+C:\Users\user\Documents\9ИС-280\17\17\bin\Debug\17.exe
+C:\Users\user\Documents\9ИС-280\17\17\bin\Debug\17.pdb
+C:\Users\user\Documents\9ИС-280\17\17\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\9ИС-280\17\17\obj\Debug\17.g.resources
+C:\Users\user\Documents\9ИС-280\17\17\obj\Debug\_17.Properties.Resources.resources
+C:\Users\user\Documents\9ИС-280\17\17\obj\Debug\17.csproj.GenerateResource.cache
+C:\Users\user\Documents\9ИС-280\17\17\obj\Debug\17.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\9ИС-280\17\17\obj\Debug\17.exe
+C:\Users\user\Documents\9ИС-280\17\17\obj\Debug\17.pdb

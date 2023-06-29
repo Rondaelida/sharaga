@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApp8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="Gray">
+    <Grid>
+        <DataGrid x:Name ="dg" HorizontalAlignment="Center" Margin="10, 10, 0, 0" VerticalAlignment="Top" Width="700" Height="300" SelectionChanged="dg_SelectionChanged">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="НОМЕР" Width="175" Binding="{Binding qwerty1}" x:Name="qwerty1"/>
+                <DataGridTextColumn Header="ИМЯ" Width="175" Binding="{Binding qwerty2}" x:Name="qwerty2"/>
+                <DataGridTextColumn Header="ВОЗРАСТ" Width="175" Binding="{Binding qwerty3}" x:Name="qwerty3"/>
+                <DataGridTextColumn Header="СТРАНА" Width="*" Binding="{Binding qwerty4}" x:Name="qwerty4"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="батон" Margin="45,363,32,10" FontFamily="Segoe Print" x:Name="bt" Click="bt_clicked"/>
+        <TextBox  Height="43" Margin="45,315,582,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" x:Name="bt1"/>
+        <TextBox  Height="43" Margin="223,315,400,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="177" x:Name="bt2"/>
+        <TextBox  Height="43" Margin="405,315,213,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="182" x:Name="bt3"/>
+        <TextBox  Height="43" Margin="592,315,32,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" x:Name="bt4"/>
+    </Grid>
+</Window>

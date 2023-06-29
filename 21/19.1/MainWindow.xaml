@@ -1,0 +1,41 @@
+﻿<Window x:Class="_19._1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_19._1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <MediaElement  UnloadedBehavior="Manual" LoadedBehavior="Manual" Name="mediaElement" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+        
+        <StackPanel Background="LightGreen" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,20">
+
+            <Button  BorderThickness="1"  BorderBrush="black" Click="PlayButton_Click" Background="Transparent">
+                <Image Source="C:\Users\user\Desktop\sad.png" Width="44" Height="24" />
+            </Button>
+
+            <Button  BorderThickness="1"  BorderBrush="black"  Click="PauseButton_Click" Background="Transparent">
+                <Image Source="C:\Users\user\Downloads\pause (1).png" Width="44" Height="24" />
+            </Button>
+
+            <Button  BorderThickness="1"  BorderBrush="black" Click="StopButton_Click" Background="Transparent" >
+                <Image Source="C:\Users\user\Downloads\cross.png" Width="44" Height="24" />
+            </Button>
+
+            <Button BorderThickness="1" Content="تحميل" BorderBrush="black" Background="Transparent" Click="Button_Click"/>
+            <Button BorderThickness="1" Content="الفيديو الأصلي" Background="Transparent"  BorderBrush="black" Click="Button_Click_1"/>
+
+
+        </StackPanel>
+
+
+
+        <Slider ValueChanged="Slider_ValueChanged" Name="slide" VerticalAlignment="Bottom" Background="LightBlue" />
+        <Slider ValueChanged="Slider_ValueChanged_1" Name="sliderVol" VerticalAlignment="top" Background="LightBlue" Maximum="1" Value="1" LargeChange="0.1" SmallChange="0.01"/>
+    </Grid>
+
+
+
+</Window>
